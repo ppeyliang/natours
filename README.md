@@ -2,7 +2,17 @@
 
 ## About The Project
 
-Natours is a frontend website built using HTML and Sass, designed to provide tours for customers who love traveling. This project aims to offer an intuitive and visually appealing platform for users to explore and book tours to various destinations around the world.
+[Natours](https://main--natours-wanderlustworlds.netlify.app/) is a frontend website built using HTML and Sass, designed to provide tours for customers who love traveling. This project aims to offer an intuitive and visually appealing platform for users to explore and book tours to various destinations around the world.
+
+## Built With
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 
 ## Features
 
@@ -36,4 +46,5 @@ Images used in the project were sourced from Unsplash and other royalty-free ima
 
 ## Acknowledgements
 
-Special thanks to Udemy course Advanced CSS and Sass provided by Jonas.
+- Udemy course [Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/) by Jonas.
+- [GitHub badge](https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md)
